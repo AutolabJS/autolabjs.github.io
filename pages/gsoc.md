@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Google Summer of Code (GSoC) - 2018
+title: GSoC
 permalink: /gsoc/
 tags: gsoc
 ---

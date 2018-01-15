@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AutolabJS Community Members
+title: Community
 permalink: /community/
 tags: community
 ---
