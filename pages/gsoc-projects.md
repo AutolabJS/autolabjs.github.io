@@ -5,10 +5,10 @@ permalink: /gsoc-projects/
 tags: gsoc projects
 ---
 
-## GSoC-2018 Project Descriptions ##
+## GSoC-2018 Project Descriptions
 The projects are given in the descending order of utility to fulfilling the project goals.
  
-### DevOps Integration ###
+### DevOps Integration
 
 * one-step installation
 * one-step update
@@ -17,7 +17,7 @@ The projects are given in the descending order of utility to fulfilling the proj
 * Metrics with Dashboard
 
 
-### Modular Load Balancer ###
+### Modular Load Balancer
 
 * Pluggable DB support
 * Time machine module
@@ -41,6 +41,7 @@ The projects are given in the descending order of utility to fulfilling the proj
 * Scalable message distribution among load balancer and execution node clusters
 * Resilience against failures
 * Implementation of Exam mode
+* Protection against network intrusions
 
 
 ### Team Support ###
