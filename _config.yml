@@ -2,9 +2,9 @@
 title:       Home of Prasad Talasila
 email:       tsrkp@goa.bits-pilani.ac.in
 author:      Prasad Talasila
-description: "Home page of Prasad Talasila"
+description: "AutolabJS"
 baseurl:     ""
-url:         "http://prasad.talasila.in"
+url:         ""
 date_format: "%b %-d, %Y"
 header_pages:
  - pages/index.md
