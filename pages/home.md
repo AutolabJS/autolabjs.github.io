@@ -1,8 +1,10 @@
 ---
 layout: page
 title:
-permalink: /
-tags: about
+permalink: /home
+tags: home
+redirect_from:
+  - /
 ---
 
 Auto evaluation software for programming projects and assignments.

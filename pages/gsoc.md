@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GSoC
+title: 
 permalink: /gsoc/
 tags: gsoc
 ---
@@ -9,7 +9,6 @@ tags: gsoc
 
 [Projects]({{ site.baseurl }}/gsoc-projects/)
 
-In order to become familiar with the project code base, you can work with issues that are marked with **GSoC** label. 
+In order to become familiar with the project code base, you can work with issues that are marked with **GSoC** label.
 
 Please follow [Coding Standards](https://github.com/AutolabJS/AutolabJS/wiki/Coding-Standards) for all the code contributions.
-

@@ -1,13 +1,13 @@
 ---
 layout: page
-title: ""
+title: 
 permalink: /gsoc-projects/
 tags: gsoc projects
 ---
 
 ## GSoC-2018 Project Descriptions
 The projects are given in the descending order of utility to fulfilling the project goals.
- 
+
 ### DevOps Integration
 
 * one-step installation
@@ -57,7 +57,6 @@ The projects are given in the descending order of utility to fulfilling the proj
 
 ---
 
-In order to become familiar with the project code base, you can work with issues that are marked with **GSoC** label. 
+In order to become familiar with the project code base, you can work with issues that are marked with **GSoC** label.
 
 Please follow [Coding Standards](https://github.com/AutolabJS/AutolabJS/wiki/Coding-Standards) for all the code contributions.
-
