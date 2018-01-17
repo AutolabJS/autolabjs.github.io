@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title:
 permalink: /gsoc-projects/
 tags: gsoc projects
 ---
@@ -50,13 +50,6 @@ The projects are given in the descending order of utility to fulfilling the proj
 * Support team duals
 
 
-### AutolabJS Client ###
-
-* Unified client to support collaborative development
-
-
 ---
 
 In order to become familiar with the project code base, you can work with issues that are marked with **GSoC** label.
-
-Please follow [Coding Standards](https://github.com/AutolabJS/AutolabJS/wiki/Coding-Standards) for all the code contributions.
