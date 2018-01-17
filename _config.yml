@@ -3,7 +3,7 @@ title:       AutolabJS
 email:       tsrkp@goa.bits-pilani.ac.in
 author:      Prasad Talasila
 description: "AutolabJS"
-baseurl:     ""
+baseurl:     "https://autolabjs.github.io/"
 url:         ""
 date_format: "%b %-d, %Y"
 header_pages:
