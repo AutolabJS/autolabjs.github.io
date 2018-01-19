@@ -26,7 +26,7 @@ The projects are given in the descending order of utility to fulfilling the proj
 
 
 
-### Execution Node Cluster ###
+### Execution Node Cluster
 
 * Concurrent execution of tests
 * YAML configuration for execution nodes
@@ -34,7 +34,7 @@ The projects are given in the descending order of utility to fulfilling the proj
 * Caching of instructor solution for evaluation
 * Secure upload of evaluation results
 
-### Architectural Improvements ###
+### Architectural Improvements
 
 * Design and implementation of clean REST interfaces
 * Transaction guarantees in the system
@@ -44,7 +44,7 @@ The projects are given in the descending order of utility to fulfilling the proj
 * Protection against network intrusions
 
 
-### Team Support ###
+### Team Support
 
 * Integration of TeamEvaluator component
 * Support team duals

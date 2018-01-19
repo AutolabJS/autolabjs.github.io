@@ -5,7 +5,7 @@ permalink: /gsoc/
 tags: gsoc
 ---
 
-### Information for GSoC 2018 Participants ###
+### Information for GSoC 2018 Participants
 
 Thank you for your interest in AutolabJS project. To provide positive experience for the incoming participants, we have compiled a general set of resources along with the ideas (projects) page. The content in **Ideas** category makes more sense if you are already familiar with the content in **General Info** category.
 
@@ -24,13 +24,13 @@ Thank you for your interest in AutolabJS project. To provide positive experience
 <span style="white-space: pre-line">[AutolabJS Goals](https://github.com/AutolabJS/AutolabJS/wiki/Project-Goals)
 [AutolabJS Features](https://github.com/AutolabJS/AutolabJS/wiki/Product-Features)
 Architecture - [existing](https://github.com/AutolabJS/AutolabJS/wiki/Application-Architecture), [proposed](https://github.com/AutolabJS/AutolabJS/wiki/Application-Architecture)
+[Advice on Choosing Projects]({{ site.baseurl }}/gsoc-projects/)
 </span></td>
-<td markdown="span"><span style="white-space: pre-line">[Projects]({{ site.baseurl }}/gsoc-projects/)
-DevOps Integration
-Modular Load Balancer
-Execution Node Cluster
-Architectural Improvements
-Team Support
+<td markdown="span"><span style="white-space: pre-line">1. DevOps Integration
+2. Modular Load Balancer
+3. Execution Node Cluster
+4. Architectural Improvements
+5. Team Support
 
 Your own proposal that originates from [FR List](https://github.com/AutolabJS/AutolabJS/wiki/Feature-Requests), [FR Notes](https://github.com/AutolabJS/AutolabJS/wiki/FR-Notes), [Design Notes](https://github.com/AutolabJS/AutolabJS/wiki/Design-Notes) and [Fancy Features](https://github.com/AutolabJS/AutolabJS/wiki/Fancy-Features)
 

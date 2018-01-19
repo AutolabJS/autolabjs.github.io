@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 
+title:
 permalink: /community/
 tags: community
 ---
 
-### AutolabJS Developer Community ###
+### AutolabJS Developer Community
