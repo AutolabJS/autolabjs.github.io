@@ -4,11 +4,13 @@ title: DevOps Integration
 permalink: /gsoc/devops/
 tags: gsoc devops
 ---
-**Summary**:
+**Project Title**:
 
-**Mentor(s)**: [Prasad Talasila](http://prasad.talasila.in)
+**Description**:
 
-**Administrator**: [Prasad Talasila](http://prasad.talasila.in)
+**Difficulty Level**:
+
+**Mentor(s)**: [Prasad Talasila](https://github.com/prasadtalasila)
 
 **Mail Goals**:
 * one-step installation
@@ -17,4 +19,12 @@ tags: gsoc devops
 * Logs
 * Metrics with Dashboard
 
+**Deliverables**:
+
 **Relevant Issues**: [GSoC-DevOps](https://github.com/AutolabJS/AutolabJS/labels/GSoC-DevOps)
+
+**Skills Required**:
+
+**Getting Started**:
+
+**Administrator**: [Prasad Talasila](https://github.com/prasadtalasila)

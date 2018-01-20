@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Architecture
+title: Architectural Improvements
 permalink: /gsoc/arch/
 tags: gsoc architecture
 ---
-**Summary**:
+**Project Title**:
 
-**Mentor(s)**: [Prasad Talasila](http://prasad.talasila.in)
+**Description**:
 
-**Administrator**: [Prasad Talasila](http://prasad.talasila.in)
+**Difficulty Level**:
+
+**Mentor(s)**: [Prasad Talasila](https://github.com/prasadtalasila)
 
 **Mail Goals**:
 * Design and implementation of clean REST interfaces
@@ -18,4 +20,12 @@ tags: gsoc architecture
 * Implementation of Exam mode
 * Protection against network intrusions
 
+**Deliverables**:
+
 **Relevant Issues**: [GSoC-Arch](https://github.com/AutolabJS/AutolabJS/labels/GSoC-Arch)
+
+**Skills Required**:
+
+**Getting Started**:
+
+**Administrator**: [Prasad Talasila](https://github.com/prasadtalasila)

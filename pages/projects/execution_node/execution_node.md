@@ -4,11 +4,13 @@ title: Execution Node Cluster
 permalink: /gsoc/en/
 tags: gsoc execution node
 ---
-**Summary**:
+**Project Title**:
 
-**Mentor(s)**: [Prasad Talasila](http://prasad.talasila.in)
+**Description**:
 
-**Administrator**: [Prasad Talasila](http://prasad.talasila.in)
+**Difficulty Level**:
+
+**Mentor(s)**: [Prasad Talasila](https://github.com/prasadtalasila)
 
 **Mail Goals**:
 * Concurrent execution of tests
@@ -17,4 +19,12 @@ tags: gsoc execution node
 * Caching of instructor solution for evaluation
 * Secure upload of evaluation results
 
+**Deliverables**:
+
 **Relevant Issues**: [GSoC-EN](https://github.com/AutolabJS/AutolabJS/labels/GSoC-EN)
+
+**Skills Required**:
+
+**Getting Started**:
+
+**Administrator**: [Prasad Talasila](http://prasad.talasila.in)

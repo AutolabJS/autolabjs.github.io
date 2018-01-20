@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Load Balancer
+title: Modular Load Balancer
 permalink: /gsoc/lb/
 tags: gsoc load balancer
 ---
-**Summary**:
+**Project Title**:
 
-**Mentor(s)**: [Prasad Talasila](http://prasad.talasila.in)
+**Description**:
 
-**Administrator**: [Prasad Talasila](http://prasad.talasila.in)
+**Difficulty Level**:
+
+**Mentor(s)**: [Prasad Talasila](https://github.com/prasadtalasila)
 
 **Mail Goals**:
 * Pluggable DB support
@@ -17,4 +19,14 @@ tags: gsoc load balancer
 * Support for bulk revaluation
 * Pluggable queue / job management
 
+**Deliverables**:
+
 **Relevant Issues**: [GSoC-LB](https://github.com/AutolabJS/AutolabJS/labels/GSoC-LB)
+
+**Skills Required**:
+
+**Getting Started**:
+
+**Mentor(s)**: [Prasad Talasila](http://prasad.talasila.in)
+
+**Administrator**: [Prasad Talasila](http://prasad.talasila.in)
