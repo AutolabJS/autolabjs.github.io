@@ -1,12 +1,9 @@
 ---
 layout: page
-title:
+title: Load Balancer
 permalink: /gsoc/lb/
 tags: gsoc load balancer
 ---
-
-### Modular Load Balancer
-
 **Summary**:
 
 **Mentor(s)**: [Prasad Talasila](http://prasad.talasila.in)

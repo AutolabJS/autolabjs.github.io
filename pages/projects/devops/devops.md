@@ -1,12 +1,9 @@
 ---
 layout: page
-title:
+title: DevOps Integration
 permalink: /gsoc/devops/
 tags: gsoc devops
 ---
-
-## DevOps Integration
-
 **Summary**:
 
 **Mentor(s)**: [Prasad Talasila](http://prasad.talasila.in)

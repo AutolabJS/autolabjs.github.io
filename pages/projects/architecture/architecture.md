@@ -1,12 +1,9 @@
 ---
 layout: page
-title:
+title: Architecture
 permalink: /gsoc/arch/
 tags: gsoc architecture
 ---
-
-### Architectural Improvements
-
 **Summary**:
 
 **Mentor(s)**: [Prasad Talasila](http://prasad.talasila.in)

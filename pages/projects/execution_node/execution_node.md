@@ -1,12 +1,9 @@
 ---
 layout: page
-title:
+title: Execution Node Cluster
 permalink: /gsoc/en/
 tags: gsoc execution node
 ---
-
-### Execution Node Cluster
-
 **Summary**:
 
 **Mentor(s)**: [Prasad Talasila](http://prasad.talasila.in)
