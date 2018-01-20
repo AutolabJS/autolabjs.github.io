@@ -15,7 +15,6 @@ AutolabJS server
     <i class="fa fa-bug"></i> [Issues](https://github.com/AutolabJS/AutolabJS/issues) &nbsp; &nbsp; &nbsp; &nbsp;
     <i class="fa fa-book"></i> [Wiki](https://github.com/AutolabJS/AutolabJS/wiki)  &nbsp; &nbsp; &nbsp; &nbsp;
     <i class="fa fa-github-alt"></i> [Source Code](https://github.com/AutolabJS/AutolabJS) &nbsp; &nbsp;
-    <i class="fa fa-book"></i> [Wiki](https://github.com/AutolabJS/AutolabJS/wiki)  &nbsp; &nbsp; &nbsp; &nbsp;
 
 ### AutolabCLI
 Commandline client    
@@ -25,4 +24,4 @@ Commandline client
     <i class="fa fa-github-alt"></i> [Source Code](https://github.com/AutolabJS/autolabcli)
 
 ---
-### [Information for GSoC 2018 Participants]({{ site.baseurl }}/gsoc) 
+### [Information for GSoC 2018 Participants]({{ site.baseurl }}/gsoc)
