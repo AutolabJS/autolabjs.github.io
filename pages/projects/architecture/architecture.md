@@ -8,7 +8,7 @@ tags: gsoc architecture
 
 **Description**:
 
-**Difficulty Level**:
+**Difficulty Level**: Hard
 
 **Mentor(s)**: [Ankshit Jain](https://github.com/AnkshitJain)
 

@@ -8,7 +8,7 @@ tags: gsoc load balancer
 
 **Description**:
 
-**Difficulty Level**:
+**Difficulty Level**: Medium
 
 **Mentor(s)**: [Prasad Talasila](https://github.com/prasadtalasila)
 

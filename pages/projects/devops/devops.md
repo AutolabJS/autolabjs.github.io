@@ -8,14 +8,14 @@ tags: gsoc devops
 
 **Description**:
 
-**Difficulty Level**:
+**Difficulty Level**: Medium
 
 **Mentor(s)**: [Ankshit Jain](https://github.com/AnkshitJain)
 
 **Mail Goals**:
 * one-step installation
 * one-step update
-* functional and unit tests for all the components
+* functional, integration and unit tests for all the components
 * Logs
 * Metrics with Dashboard
 
