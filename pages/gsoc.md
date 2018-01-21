@@ -27,13 +27,12 @@ Architecture - [existing](https://github.com/AutolabJS/AutolabJS/wiki/Applicatio
 
 GSoC Project Page
 [Advice on Proposal Writing]({{ site.baseurl }}/gsoc/proposal-advice/)
-Proposal Template (doc)
+[Proposal Template]({{ site.baseurl }}/gsoc/proposal-template)
 </span></td>
 <td markdown="span"><span style="white-space: pre-line">1. [DevOps Integration]({{ site.baseurl }}/gsoc/devops)
 2. [Modular Load Balancer]({{ site.baseurl }}/gsoc/lb)
 3. [Execution Node Cluster]({{ site.baseurl }}/gsoc/en)
 4. [Architectural Improvements]({{ site.baseurl }}/gsoc/arch)
-5. [Team Support]({{ site.baseurl }}/gsoc/team)
 
 Your own proposal that originates from [FR List](https://github.com/AutolabJS/AutolabJS/wiki/Feature-Requests), [FR Notes](https://github.com/AutolabJS/AutolabJS/wiki/FR-Notes), [Design Notes](https://github.com/AutolabJS/AutolabJS/wiki/Design-Notes) and [Fancy Features](https://github.com/AutolabJS/AutolabJS/wiki/Fancy-Features)
 

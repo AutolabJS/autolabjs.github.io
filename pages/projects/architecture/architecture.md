@@ -10,7 +10,7 @@ tags: gsoc architecture
 
 **Difficulty Level**:
 
-**Mentor(s)**: [Prasad Talasila](https://github.com/prasadtalasila)
+**Mentor(s)**: [Ankshit Jain](https://github.com/AnkshitJain)
 
 **Mail Goals**:
 * Design and implementation of clean REST interfaces
