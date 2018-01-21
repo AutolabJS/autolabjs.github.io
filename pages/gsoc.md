@@ -23,7 +23,7 @@ Thank you for your interest in AutolabJS project. To provide positive experience
 <td markdown="span">
 <span style="white-space: pre-line">[AutolabJS Goals](https://github.com/AutolabJS/AutolabJS/wiki/Project-Goals)
 [AutolabJS Features](https://github.com/AutolabJS/AutolabJS/wiki/Product-Features)
-Architecture - [existing](https://github.com/AutolabJS/AutolabJS/wiki/Application-Architecture), [proposed](https://github.com/AutolabJS/AutolabJS/wiki/Application-Architecture)
+Architecture - [existing](https://github.com/AutolabJS/AutolabJS/wiki/Application-Architecture), [proposed](https://github.com/AutolabJS/AutolabJS/wiki/Proposed-Architecture)
 
 GSoC Project Page
 [Advice on Proposal Writing]({{ site.baseurl }}/gsoc/proposal-advice/)
@@ -53,7 +53,7 @@ Gitter - [AutolabJS](https://gitter.im/AutolabJS/Lobby?source=orgpage), [GSoC](h
 </span>
 </td>
 <td markdown="span"><span style="white-space: pre-line">[Source Code](https://github.com/AutolabJS/AutolabJS)
-[User Docs](https://github.com/AutolabJS/AutolabJS/wiki/v0.3.0-Deployment-on-Single-Machine)
+[User Docs](https://github.com/AutolabJS/AutolabJS/wiki/v0.3.0)
 [Download](https://github.com/AutolabJS/AutolabJS/releases) and [Install](https://github.com/AutolabJS/AutolabJS/wiki/v0.3.0-Deployment-on-Single-Machine)
 [Branch History](https://github.com/AutolabJS/AutolabJS/wiki/Branch-History)
 [Issues](https://github.com/AutolabJS/AutolabJS/issues)
