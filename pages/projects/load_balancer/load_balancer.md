@@ -10,7 +10,7 @@ tags: gsoc load balancer
 
 **Difficulty Level**: Medium
 
-**Mentor(s)**: [Prasad Talasila](https://github.com/prasadtalasila)
+**Mentor(s)**: [Rajat Agarwal](https://rajat503.github.io/) (f2013866 AT goa DOT bits-pilani DOT ac DOT in), [Prasad Talasila](https://github.com/prasadtalasila) (tsrkp AT goa DOT bits-pilani DOT ac DOT in)
 
 **Mail Goals**:
 * Pluggable DB support
@@ -29,4 +29,4 @@ tags: gsoc load balancer
 
 **Mentor(s)**: [Prasad Talasila](http://prasad.talasila.in)
 
-**Administrator**: [Prasad Talasila](http://prasad.talasila.in)
+**Administrator**: [Prasad Talasila](http://prasad.talasila.in) (tsrkp AT goa DOT bits-pilani DOT ac DOT in)

@@ -10,7 +10,7 @@ tags: gsoc execution node
 
 **Difficulty Level**: Medium
 
-**Mentor(s)**: [Rajat Agarwal](https://rajat503.github.io/)
+**Mentor(s)**: [Rajat Agarwal](https://rajat503.github.io/) (f2013866 AT goa DOT bits-pilani DOT ac DOT in), [Prasad Talasila](https://github.com/prasadtalasila) (tsrkp AT goa DOT bits-pilani DOT ac DOT in)
 
 **Mail Goals**:
 * Concurrent execution of tests
@@ -27,4 +27,4 @@ tags: gsoc execution node
 
 **Getting Started**:
 
-**Administrator**: [Prasad Talasila](http://prasad.talasila.in)
+**Administrator**: [Prasad Talasila](http://prasad.talasila.in) (tsrkp AT goa DOT bits-pilani DOT ac DOT in)

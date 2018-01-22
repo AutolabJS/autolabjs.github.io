@@ -29,7 +29,8 @@ GSoC Project Page
 [Advice on Proposal Writing]({{ site.baseurl }}/gsoc/proposal-advice/)
 [Proposal Template]({{ site.baseurl }}/gsoc/proposal-template)
 </span></td>
-<td markdown="span"><span style="white-space: pre-line">1. [DevOps Integration]({{ site.baseurl }}/gsoc/devops)
+<td markdown="span"><span style="white-space: pre-line">Projects listed in descending order of priority are:
+1. [DevOps Integration]({{ site.baseurl }}/gsoc/devops)
 2. [Modular Load Balancer]({{ site.baseurl }}/gsoc/lb)
 3. [Execution Node Cluster]({{ site.baseurl }}/gsoc/en)
 4. [Architectural Improvements]({{ site.baseurl }}/gsoc/arch)
