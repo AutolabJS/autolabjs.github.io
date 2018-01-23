@@ -6,11 +6,11 @@ tags: gsoc load balancer
 ---
 **Project Title**: Create new load balancer with support for plug-ins
 
-**Description**: The load balancer is a very crucial component in AutolabJS. At the moment, the load balancer suffers from lack of proper job management. We wish to check the incoming evaluation requests are for duplication, and subject all the pending evaluation requests to a timeout function. This kind of job management functionality is best offered as a plugin to the load balancer. Hence the need for plugins. Of course, the plugin structure to be proposed must be compatible with the microservices architecture that's already in the system.
+**Description**: The load balancer is a very crucial component in AutolabJS. At the moment, the load balancer suffers from lack of proper job management. We wish to check the incoming evaluation requests for duplication, and subject all the pending evaluation requests to a timeout function. This kind of job management functionality is best offered as a plugin to the load balancer. Hence the need for plugins. Of course, the plugin structure to be proposed must be compatible with the microservices architecture that's already in the system.
 
 At present, there is a main server module which is responsible for serving static files and terminating socket.io requests. We need to separate the static files from main server and fold the socket.io termination code into the load balancer. One proposal would be to make the socket.io handling part and the job management part into main server. We can move all the static website serving to static webserver like Apache / NGNIX.
 
-We also have a need to backup all the student submissions at the end of the lab so that we have a snapshot of the code submitted to the lab. Another frequent request is to have a facility for bulk evaluation of labs. The bulk evaluation requires instructor credentials; Once started, the bulk evaluation completes the evaluation of all the registered students who submitted the lab.
+We also have a need to backup all the student submissions at the end of the lab so that we have a snapshot of the code submitted to the lab. Another frequent feature request is to have a facility for bulk evaluation of labs. The bulk evaluation requires instructor credentials; Once started, the bulk evaluation completes the evaluation of all the registered students who submitted the lab.
 
 **Difficulty Level**: Medium
 
@@ -25,6 +25,7 @@ We also have a need to backup all the student submissions at the end of the lab 
 
 **Deliverables**: A brand new replacement for the existing load balancer with the following features:
 * Has all the functions of the existing load balancer
+* Dynamic loading of configuration information
 * Has a plugin system which is compatible with the microservice architecture.
 * Supports a queue / job management system which is robust to failures, repetitive submissions and excess load conditions.
 * Supports secure management of execution nodes; tolerates the failures of execution nodes and executes evaluation requests successfully.
