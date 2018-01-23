@@ -25,7 +25,7 @@ Thank you for your interest in AutolabJS project. To provide positive experience
 [AutolabJS Features](https://github.com/AutolabJS/AutolabJS/wiki/Product-Features)
 Architecture - [existing](https://github.com/AutolabJS/AutolabJS/wiki/Application-Architecture), [proposed](https://github.com/AutolabJS/AutolabJS/wiki/Proposed-Architecture)
 
-GSoC Project Page
+[Organization Application for GSoC]({{ site.baseurl }}/gsoc-application)
 [Advice on Proposal Writing]({{ site.baseurl }}/gsoc/proposal-advice/)
 [Proposal Template]({{ site.baseurl }}/gsoc/proposal-template)
 </span></td>
