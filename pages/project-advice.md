@@ -9,7 +9,7 @@ tags: gsoc proposal advice
 
 The projects are given in the descending order of utility to fulfilling the [project goals](https://github.com/AutolabJS/AutolabJS/wiki/Project-Goals). In effect, [AutolabJS team members](https://github.com/AutolabJS/AutolabJS/graphs/contributors) would be more excited to receive proposals for [DevOps Integration]({{ site.baseurl }}/gsoc/devops) than to receive proposals for [Modular Load Balancer]({{ site.baseurl }}/gsoc/lb) and so on. Of course, we welcome quality proposals for any of the projects.
 
-Based on your preferences and skill set, please select a project that has high probability of completion. We take due care in assessing the design and testability of all new code contributions. Please make sure that your design adheres to [arcitectural principles](https://github.com/AutolabJS/AutolabJS/wiki/Proposed-Architecture) of the project. You can check a few merged pull requests, [PR on logger.js](https://github.com/AutolabJS/AutolabJS/pull/236) and [PR on status.js](https://github.com/AutolabJS/AutolabJS/pull/238) to understand the kind of scrutiny the incoming code receives. Based on our follies and experiences, we believe:
+Based on your preferences and skill set, please select a project that has high probability of completion. We take due care in assessing the design and testability of all new code contributions. Please make sure that your design adheres to [architectural principles](https://github.com/AutolabJS/AutolabJS/wiki/Proposed-Architecture) of the project. You can check a few merged pull requests, [PR on logger.js](https://github.com/AutolabJS/AutolabJS/pull/236) and [PR on status.js](https://github.com/AutolabJS/AutolabJS/pull/238) to understand the kind of scrutiny the incoming code receives. Based on our follies and experiences, we believe:
 > Current development speed is a function of past development quality.
 >	&nbsp; &nbsp; &nbsp; 	- Brian McCallister
 
@@ -17,7 +17,7 @@ We expect all the incoming code contributions to have the following code quality
 * Builds on Travis.
 * Pass [codeclimate](https://codeclimate.com/) checks.
 * Near 100% unit, integration and functional test coverage.
-* Readable code.
+* Readable code with documentation at all required points.
 
 Please explain your approach to meeting the requested code quality attributes.
 
