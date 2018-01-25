@@ -27,7 +27,7 @@ Another area of improvement is in terms of secure execution. We need hard, prova
 
 **Deliverables**:
 A completely new execution node component with the following features:
-* Has all the functions of the existing load balancer
+* Has all the functions of the existing execution node.
 * Dynamic loading of configuration information
 * Support for YAML configuration of execution nodes
 * Secure execution of code in containers in even hostile environment
