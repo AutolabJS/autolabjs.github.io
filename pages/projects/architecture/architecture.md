@@ -19,7 +19,7 @@ Any proposed architecture must fully comply with DevOps practices and must adher
 
 **Mentor(s)**: [Ankshit Jain](https://github.com/AnkshitJain) (f20150006 AT goa DOT bits-pilani DOT ac DOT in), [Prasad Talasila](https://github.com/prasadtalasila) (tsrkp AT goa DOT bits-pilani DOT ac DOT in)
 
-**Mail Goals**:
+**Main Goals**:
 * Design and implementation of clean REST interfaces
 * Transaction guarantees in the system
 * Scalable message distribution among load balancer and execution node clusters

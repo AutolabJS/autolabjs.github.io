@@ -16,7 +16,7 @@ We also have a need to backup all the student submissions at the end of the lab 
 
 **Mentor(s)**: [Rajat Agarwal](https://rajat503.github.io/) (f20130866 AT goa DOT bits-pilani DOT ac DOT in), [Prasad Talasila](https://github.com/prasadtalasila) (tsrkp AT goa DOT bits-pilani DOT ac DOT in)
 
-**Mail Goals**:
+**Main Goals**:
 * Pluggable queue / job management
 * Polyglot DB support
 * Time machine module
