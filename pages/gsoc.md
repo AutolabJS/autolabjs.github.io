@@ -34,9 +34,7 @@ Architecture - [existing](https://github.com/AutolabJS/AutolabJS/wiki/Applicatio
 2. [Modular Load Balancer]({{ site.baseurl }}/gsoc/lb)
 3. [Execution Node Cluster]({{ site.baseurl }}/gsoc/en)
 4. [Architectural Improvements]({{ site.baseurl }}/gsoc/arch)
-
-Your own proposal that originates from [FR List](https://github.com/AutolabJS/AutolabJS/wiki/Feature-Requests), [FR Notes](https://github.com/AutolabJS/AutolabJS/wiki/FR-Notes), [Design Notes](https://github.com/AutolabJS/AutolabJS/wiki/Design-Notes) and [Fancy Features](https://github.com/AutolabJS/AutolabJS/wiki/Fancy-Features)
-
+5. [Own Proposal]({{ site.baseurl }}/gsoc/own-proposal)
 
 </span>
 </td>
