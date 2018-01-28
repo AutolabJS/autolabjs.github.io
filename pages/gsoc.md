@@ -1,11 +1,10 @@
 ---
 layout: page
-title:
+title: Information for GSoC 2018 Participants
 permalink: /gsoc/
 tags: gsoc
 ---
 
-### Information for GSoC 2018 Participants
 
 Thank you for your interest in AutolabJS project. To provide positive experience for the incoming participants, we have compiled a general set of resources along with the ideas (projects) page. The content in **Ideas** category makes more sense if you are already familiar with the content in **General Info** category.
 
