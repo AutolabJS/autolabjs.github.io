@@ -1,11 +1,9 @@
 ---
 layout: page
-title:
+title: Advice on Creating a Strong Proposal
 permalink: /gsoc/proposal-advice/
 tags: gsoc proposal advice
 ---
-
-## Advice on Creating a Strong Proposal
 
 The projects are given in the descending order of utility to fulfilling the [project goals](https://github.com/AutolabJS/AutolabJS/wiki/Project-Goals). In effect, [AutolabJS team members](https://github.com/AutolabJS/AutolabJS/graphs/contributors) would be more excited to receive proposals for [DevOps Integration]({{ site.baseurl }}/gsoc/devops) than to receive proposals for [Modular Load Balancer]({{ site.baseurl }}/gsoc/lb) and so on. Of course, we welcome quality proposals for any of the projects.
 
