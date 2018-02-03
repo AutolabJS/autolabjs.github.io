@@ -36,7 +36,7 @@ We also have a need to backup all the student submissions at the end of the lab 
 
 **Relevant Issues**: [GSoC-LB](https://github.com/AutolabJS/AutolabJS/labels/GSoC-LB)
 
-**Skills Required**: ES6 Programming on Node.js 8.x, [JS Testing](https://github.com/AutolabJS/AutolabJS/wiki/Testing), Winston logger, Microservices in Node.js
+**Skills Required**: ES6 Programming on Node.js 8.x, [JS Testing](https://github.com/AutolabJS/autolabcli/wiki/Testing-in-JavaScript), Winston logger, Microservices in Node.js
 
 **Getting Started**:
 1. Install AutolabJS and run a sample lab.

@@ -26,7 +26,7 @@ We expect all the chosen deliverables to be completed as per the given timeline.
 
 **Relevant Issues**: [AutolabJS issues](https://github.com/AutolabJS/AutolabJS/issues)
 
-**Skills Required**: Depends on your project. AutolabJS requires the following technical stack: ES6 Programming on Node.js 8.x, [JS Testing](https://github.com/AutolabJS/AutolabJS/wiki/Testing), Winston logger, Microservices in Node.js, Docker containers, Ansible, Bash shell scripting
+**Skills Required**: Depends on your project. AutolabJS requires the following technical stack: ES6 Programming on Node.js 8.x, [JS Testing](https://github.com/AutolabJS/autolabcli/wiki/Testing-in-JavaScript), Winston logger, Microservices in Node.js, Docker containers, Ansible, Bash shell scripting
 
 **Getting Started**:
 1. Install AutolabJS and run a sample lab.

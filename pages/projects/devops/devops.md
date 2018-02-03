@@ -39,7 +39,7 @@ We want to introduce the following DevOps principles into the AutolabJS.
 
 **Relevant Issues**: [GSoC-DevOps](https://github.com/AutolabJS/AutolabJS/labels/GSoC-DevOps)
 
-**Skills Required**: ES6 Programming on Node.js 8.x, [JS Testing](https://github.com/AutolabJS/AutolabJS/wiki/Testing), Ansible, Deb packaging, Winston logger
+**Skills Required**: ES6 Programming on Node.js 8.x, [JS Testing](https://github.com/AutolabJS/autolabcli/wiki/Testing-in-JavaScript), Ansible, Deb packaging, Winston logger
 
 **Getting Started**:
 1. Install AutolabJS and run a sample lab.

@@ -37,7 +37,7 @@ A completely new execution node component with the following features:
 
 **Relevant Issues**: [GSoC-EN](https://github.com/AutolabJS/AutolabJS/labels/GSoC-EN)
 
-**Skills Required**: ES6 Programming on Node.js 8.x, [JS Testing](https://github.com/AutolabJS/AutolabJS/wiki/Testing), Cluster programming in Node.js, Winston logger, Microservices in Node.js, Docker containers
+**Skills Required**: ES6 Programming on Node.js 8.x, [JS Testing](https://github.com/AutolabJS/autolabcli/wiki/Testing-in-JavaScript), Cluster programming in Node.js, Winston logger, Microservices in Node.js, Docker containers
 
 **Getting Started**:
 1. Install AutolabJS and run a sample lab.

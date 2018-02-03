@@ -55,7 +55,7 @@ Gitter - [AutolabJS](https://gitter.im/AutolabJS/Lobby?source=orgpage), [GSoC](h
 [Download](https://github.com/AutolabJS/AutolabJS/releases) and [Install](https://github.com/AutolabJS/AutolabJS/wiki/v0.3.0-Deployment-on-Single-Machine)
 [Branch History](https://github.com/AutolabJS/AutolabJS/wiki/Branch-History)
 [Issues](https://github.com/AutolabJS/AutolabJS/issues)
-[Testing](https://github.com/AutolabJS/AutolabJS/wiki/Testing)
+[Testing](https://github.com/AutolabJS/autolabcli/wiki/Testing-in-JavaScript)
 [Coding Standards](https://github.com/AutolabJS/AutolabJS/wiki/Coding-Standards)
 </span>
 </td>
