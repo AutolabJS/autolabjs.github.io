@@ -8,6 +8,7 @@ url:         ""
 date_format: "%b %-d, %Y"
 header_pages:
  - pages/home.md
+ - pages/participants.md
  - pages/gsoc.md
  - pages/community.md
 

@@ -6,6 +6,7 @@ tags: sitemap
 ---
 
 * [Home]({{ site.baseurl }}/home) Home page; contains links to major locations relevant to the AutolabJS project.
+* [Participate]({{ site.baseurl }}/participate) Information for prospective participants in AutolabJS.
 * [GSoC]({{ site.baseurl }}/gsoc) Webpage containing all the relevant information for GSoC.
   * [Advice on Proposal Writing]({{ site.baseurl }}/gsoc/proposal-advice) Tidbits of advice to students planning to write GSoC proposal for AutolabJS project.
   * [Proposal Template]({{ site.baseurl }}/gsoc/proposal-template) Suggested template for GSoC student applications.
