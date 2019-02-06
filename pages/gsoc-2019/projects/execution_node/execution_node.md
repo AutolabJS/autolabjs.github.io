@@ -16,7 +16,7 @@ Another area of improvement is in terms of secure execution. We need hard, prova
 
 **Difficulty Level**: Medium
 
-**Mentor(s)**: [Rajat Agarwal](https://rajat503.github.io/) (f20130866 AT goa DOT bits-pilani DOT ac DOT in), [Prasad Talasila](https://github.com/prasadtalasila) (tsrkp AT goa DOT bits-pilani DOT ac DOT in)
+**Mentor(s)**: [Prasad Talasila](https://github.com/prasadtalasila) (prasad DOT talasila AT gmail DOT com)
 
 **Main Goals**:
 * Concurrent execution of tests
@@ -46,4 +46,4 @@ A completely new execution node component with the following features:
 1. Create a skeleton code structure for concurrent, secure evaluation of code submissions.
 
 
-**Administrator**: [Prasad Talasila](http://prasad.talasila.in) (tsrkp AT goa DOT bits-pilani DOT ac DOT in)
+**Administrator**: [Prasad Talasila](https://github.com/prasadtalasila) (prasad DOT talasila AT gmail DOT com)

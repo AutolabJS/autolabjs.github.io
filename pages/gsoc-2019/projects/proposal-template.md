@@ -8,7 +8,7 @@ tags: gsoc
 
 The GSoC applicants are requested to format their application using the outline given below. You can create a wiki page on your GitHub repository and fill the page with the required details. This page is available for [download](https://github.com/AutolabJS/autolabjs.github.io/blob/master/pages/projects/proposal-template.md) in markdown format.
 
-It is important to fill the application in detail and get your mentors feedback as early as possible. Please submit your applications directly to GSoC 2018 website.
+It is important to fill the application in detail and get your mentors feedback as early as possible. Please submit your applications directly to GSoC 2019 website.
 
 ### Table of Contents
 <!-- toc -->
@@ -117,7 +117,7 @@ Do provide hyperlinks to your prior work to justify your self-assessment under t
 
 ### Administrative Information
 
-**Please provide links to your communication with the mentor?** (links to Gitter conversation / Google Groups interaction is sufficient.)
+**Please provide links to your communication with the mentor?** (links to Gitter conversation is sufficient.)
 
 **Have you got the approval of your mentor on the project proposal?**
 
@@ -129,7 +129,7 @@ Do provide hyperlinks to your prior work to justify your self-assessment under t
 
 **Do you have any other summer time commitments (internships etc.) that will impact your participation in GSoC? If so, how do you plan to balance your commitments?**
 
-**If your school reopens before 14-August-2018, how do you plan to balance the school requirements and GSoC workload?**
+**If your school reopens before 19-August-2019, how do you plan to balance the school requirements and GSoC workload?**
 
 
 ### Miscellaneous

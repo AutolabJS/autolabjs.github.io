@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GSoC-2018 Application for AutolabJS Organization
+title: GSoC-2019 Application for AutolabJS Organization
 permalink: /gsoc-application/
 tags: gsoc
 ---
@@ -20,7 +20,7 @@ Our first strategy to achieve this goal is to motivate the students to write rea
 
 
 **How will you get your students involved in your community during GSoC?**    
-So far we have used slack channels, GitHub repo and private mails for project communication. We have setup dedicated, public chat and mailing lists for communicating with the GSoC students. One of the ways a student can lose motivation is when (s)he encounters a difficult technical problem and does not receive enough support from the mentors / developer community. We plan to tackle the scenario by motivating developers to be timely in response to all the communications from the student participants. Any pending logistics / technical issues shall be resolved by the organisational administrator on a weekly basis. Apart from these two, the participating students shall also be invited to have design and pair programming sessions with the mentors. This is to help transfer the existing project knowledge to the incoming participants. The student ideas also get discussed during these joint sessions.
+So far we have used slack channels, GitHub repo and private mails for project communication. We have setup dedicated, public chat rooms for communicating with the GSoC students. One of the ways a student can lose motivation is when (s)he encounters a difficult technical problem and does not receive enough support from the mentors / developer community. We plan to tackle the scenario by motivating developers to be timely in response to all the communications from the student participants. Any pending logistics / technical issues shall be resolved by the organisational administrator on a weekly basis. Apart from these two, the participating students shall also be invited to have design and pair programming sessions with the mentors. This is to help transfer the existing project knowledge to the incoming participants. The student ideas also get discussed during these joint sessions.
 
 **How will you keep students involved with your community after GSoC?**    
 Our primary motivation for participating in GSoC is to attract and retain new developers. We shall consider student applicants with strong inclination and demonstrated commitment to open source technologies. Ours being an educational software, we shall also encourage student applicants who deeply care about computer science education. We shall take all due care in giving positive and productive experience to all the student participants before and during GSoC. We have created GSoC ideas in specific project areas. We shall also encourage the student participants to acquire deep skill in their chosen project area towards becoming in-community experts in their chosen areas. The inherent motivation of the selected candidates coupled with the positive GSoC experience should help the student participants continue as core developers after GSoC.
@@ -46,6 +46,8 @@ None
 **Where does your source code live?**    
 https://github.com/AutolabJS/AutolabJS
 
+**Anything else we should know (optional)?**    
+The software has been used in eight different Computer Science courses at BITS, Pilani - KK Birla Goa Campus, India in the last four years. In the process, nearly 2300 students have used the software to perform more than 100,000 online code evaluations. Further development of this software can make it easy to use for in-house evaluation of programming assignments and projects for academic institutions.
 
 #### Organization Profile
 **Tagline**    
@@ -94,7 +96,7 @@ devops integration, modular load balancer, execution node cluster, architectural
 https://gitter.im/AutolabJS/gsoc
 
 **Mailing List**    
-https://groups.google.com/forum/#!forum/autolabjs
+    
 
 **Contact Email**    
-tsrkp AT goa DOT bits-pilani DOT ac DOT in
+prasad DOT talasila AT gmail DOT com

@@ -23,6 +23,6 @@ The project [wiki](https://github.com/AutolabJS/AutolabJS/wiki) pages are fairly
 
 We have compiled a list of [technical libraries and components](https://github.com/AutolabJS/AutolabJS/wiki/References) we found relevant to the project. You are welcome to utilize the references in any way you see fit.
 
-Please keep the project mentors in the loop about your proposals under development. We can provide feedback to help you align the proposals with the project goals. You can use the [online forum](https://groups.google.com/forum/#!forum/autolabjs) or [gitter chat](https://gitter.im/AutolabJS/gsoc) to interact with the project mentors.
+Please keep the project mentors in the loop about your proposals under development. We can provide feedback to help you align the proposals with the project goals. You can use the [gitter chat](https://gitter.im/AutolabJS/gsoc) to interact with the project mentors.
 
 Now please head back to the [GSoC page]({{ site.baseurl }}/gsoc/) to explore the projects. We look forward to your proposals.

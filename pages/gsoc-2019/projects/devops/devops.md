@@ -10,15 +10,15 @@ tags: gsoc devops
 
 We want to introduce the following DevOps principles into the AutolabJS.
 1. Principle of Flow - Continuous delivery of software from developers to installations. In order to realize the principle of flow in AutolabJS, we need to implement the following features
-    * Functional, Integration and Unit tests: The tests would give confidence about all the code and functionality put in the project. Once the tests are in place, we can hope to achieve the next principle.
-    * Continuous deployment: One step installation and one step update of AutolabJS software. In order to realize these two goals, we need to release AutolabJS software automatically for each build (continuous delivery). There must also be a mechanism for hot update all the components of AutolabJS (continuous deployment)  
+    * Functional, Integration and Unit tests: The tests would give confidence about all the code and functionality put in the project. Once the tests are in place, we can hope to achieve the next principle. The latest status on the test coverage is available on [codecov](https://codecov.io/gh/AutolabJS).
+    * Continuous deployment: One step installation and one step update of AutolabJS software. In order to realize these two goals, we need to release AutolabJS software automatically for each build (continuous delivery). There must also be a mechanism for hot update all the components of AutolabJS (continuous deployment). The [containers](https://hub.docker.com/u/autolabjs) and [execution nodes](https://github.com/AutolabJS/executionnodes) repositories help move the project in the direction of scalable continuous deployment.  
 1. Principle of Feedback - Continuous collection of data from deployments to provide insights to all participants
     * Telemetry: Setup a proper log and metrics dashboard system for AutolabJS installation so that the administrator, instructor and students of an AutolabJS installation have clear picture of the state of the system. The logs and metrics are also aggregated, anonymized and transferred to AutolabJS development team.
     * Feature Toggles: AutolabJS needs configuration driven low-risk feature deployment.
 
 **Difficulty Level**: Medium
 
-**Mentor(s)**: [Ankshit Jain](https://github.com/AnkshitJain) (f20150006 AT goa DOT bits-pilani DOT ac DOT in), [Prasad Talasila](https://github.com/prasadtalasila) (tsrkp AT goa DOT bits-pilani DOT ac DOT in)
+**Mentor(s)**: [Prasad Talasila](https://github.com/prasadtalasila) (prasad DOT talasila AT gmail DOT com)
 
 **Main Goals**:
 * Functional, integration and unit tests for all the components
@@ -47,7 +47,7 @@ We want to introduce the following DevOps principles into the AutolabJS.
 1. Write tests to satisfy at least some of the problems raised in issues with [tests - missing](https://github.com/AutolabJS/AutolabJS/labels/tests%20-%20missing) label.
 
 
-**Administrator**: [Prasad Talasila](https://github.com/prasadtalasila) (tsrkp AT goa DOT bits-pilani DOT ac DOT in)
+**Administrator**: [Prasad Talasila](https://github.com/prasadtalasila) (prasad DOT talasila AT gmail DOT com)
 
 **References**:
 

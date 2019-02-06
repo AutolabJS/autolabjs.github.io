@@ -14,7 +14,7 @@ We also have a need to backup all the student submissions at the end of the lab 
 
 **Difficulty Level**: Medium
 
-**Mentor(s)**: [Rajat Agarwal](https://rajat503.github.io/) (f20130866 AT goa DOT bits-pilani DOT ac DOT in), [Prasad Talasila](https://github.com/prasadtalasila) (tsrkp AT goa DOT bits-pilani DOT ac DOT in)
+**Mentor(s)**: [Prasad Talasila](https://github.com/prasadtalasila) (prasad DOT talasila AT gmail DOT com)
 
 **Main Goals**:
 * Pluggable queue / job management
@@ -45,4 +45,4 @@ We also have a need to backup all the student submissions at the end of the lab 
 1. Create a skeleton code structure for plugin system that is compatible with microservices architecture.
 
 
-**Administrator**: [Prasad Talasila](http://prasad.talasila.in) (tsrkp AT goa DOT bits-pilani DOT ac DOT in)
+**Administrator**: [Prasad Talasila](https://github.com/prasadtalasila) (prasad DOT talasila AT gmail DOT com)

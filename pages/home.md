@@ -24,4 +24,4 @@ Commandline client
     <i class="fa fa-github-alt"></i> [Source Code](https://github.com/AutolabJS/autolabcli)
 
 ---
-### [Information for Prospective Participants]({{ site.baseurl }}/participants)
+### [Information for GSoC Participants]({{ site.baseurl }}/gsoc)

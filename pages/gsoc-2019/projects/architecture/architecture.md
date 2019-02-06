@@ -11,13 +11,13 @@ The existing architecture of AutolabJS needs further improvements to take it to 
 
 The interfaces of all the AutolabJS components need to be improved to comply with the REST API requirements. When implementing the new API, we must make provision for version control and gradual deployment of REST API.
 
-The new system should propose a way of distributing the execution nodes across the Internet. The load balancer should take up the job of distributing the evaluation job requests and receiving the responses from execution nodes. Obviously, with Internet being what it is, we need to account for message delays, job failures, malicious participants.
+The new system should propose a way of distributing the execution nodes across the Internet. The newly created [execution nodes](https://github.com/AutolabJS/executionnodes) repository is a step in that direction. The load balancer should take up the job of distributing the evaluation job requests and receiving the responses from execution nodes. Obviously, with Internet being what it is, we need to account for message delays, job failures, malicious participants.
 
 Any proposed architecture must fully comply with DevOps practices and must adhere to the principles of microservices.
 
 **Difficulty Level**: Hard
 
-**Mentor(s)**: [Ankshit Jain](https://github.com/AnkshitJain) (f20150006 AT goa DOT bits-pilani DOT ac DOT in), [Prasad Talasila](https://github.com/prasadtalasila) (tsrkp AT goa DOT bits-pilani DOT ac DOT in)
+**Mentor(s)**: [Prasad Talasila](https://github.com/prasadtalasila) (prasad DOT talasila AT gmail DOT com)
 
 **Main Goals**:
 * Design and implementation of clean REST interfaces
@@ -52,4 +52,4 @@ A new architecture in code that provides testable guarantees of the following fe
 1. Create a skeleton code structure for implementing your proposal and write functional, integration and unit tests for your code structure.
 
 
-**Administrator**: [Prasad Talasila](https://github.com/prasadtalasila) (tsrkp AT goa DOT bits-pilani DOT ac DOT in)
+**Administrator**: [Prasad Talasila](https://github.com/prasadtalasila) (prasad DOT talasila AT gmail DOT com)

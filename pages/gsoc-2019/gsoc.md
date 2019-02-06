@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Information for GSoC 2018 Participants
+title: Information for GSoC 2019 Participants
 permalink: /gsoc/
 tags: gsoc
 ---
@@ -46,13 +46,12 @@ Architecture - [existing](https://github.com/AutolabJS/AutolabJS/wiki/Applicatio
 <tr>
 <td markdown="span"><span style="white-space: pre-line">
 [Contributors](https://github.com/AutolabJS/AutolabJS/graphs/contributors)
-Gitter - [AutolabJS](https://gitter.im/AutolabJS/Lobby?source=orgpage), [GSoC](https://gitter.im/AutolabJS/gsoc)
-[Online Forum](https://groups.google.com/forum/#!forum/autolabjs)
+Gitter - [AutolabJS](https://gitter.im/AutolabJS), [GSoC](https://gitter.im/AutolabJS/gsoc)
 </span>
 </td>
 <td markdown="span"><span style="white-space: pre-line">[Source Code](https://github.com/AutolabJS/AutolabJS)
-[User Docs](https://github.com/AutolabJS/AutolabJS/wiki/v0.3.0)
-[Download](https://github.com/AutolabJS/AutolabJS/releases) and [Install](https://github.com/AutolabJS/AutolabJS/wiki/v0.3.0-Deployment-on-Single-Machine)
+[User Docs](https://github.com/AutolabJS/AutolabJS/wiki/v0.5.0)
+[Download](https://github.com/AutolabJS/AutolabJS/releases) and [Install](https://github.com/AutolabJS/AutolabJS/wiki/v0.5.0-Deployment-on-Single-Machine)
 [Branch History](https://github.com/AutolabJS/AutolabJS/wiki/Branch-History)
 [Issues](https://github.com/AutolabJS/AutolabJS/issues)
 [Testing](https://github.com/AutolabJS/autolabcli/wiki/Testing-in-JavaScript)
@@ -64,4 +63,4 @@ Gitter - [AutolabJS](https://gitter.im/AutolabJS/Lobby?source=orgpage), [GSoC](h
 </table>
 
 ---
-For any further information, mail: <i class="fa fa-envelope-o"></i>&nbsp; tsrkp AT goa DOT bits-pilani DOT ac DOT in
+For any further information, mail: <i class="fa fa-envelope-o"></i>&nbsp; prasad DOT talasila AT gmail DOT com

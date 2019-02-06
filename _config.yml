@@ -1,6 +1,6 @@
 # Site settings
 title:       AutolabJS
-email:       tsrkp@goa.bits-pilani.ac.in
+email:       prasad.talasila@gmail.com
 author:      Prasad Talasila
 description: "AutolabJS"
 baseurl:     ""
@@ -105,7 +105,7 @@ text:
   index:
     - pages/
   contact:
-    email:    'tsrkp@goa.bits-pilani.ac.in'
+    email:    'prasad.talasila@gmail.com'
     content:  'What would you like to say?'
     subject:  'New submission!'
     submit:   'Say Hello'

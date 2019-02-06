@@ -14,7 +14,7 @@ Your own proposal that originates from:
 * [Design Notes](https://github.com/AutolabJS/AutolabJS/wiki/Design-Notes): These are in no specific order
 * [Fancy Features](https://github.com/AutolabJS/AutolabJS/wiki/Fancy-Features): These are in no specific order
 
-**Mentor(s)**: [Prasad Talasila](https://github.com/prasadtalasila) (tsrkp AT goa DOT bits-pilani DOT ac DOT in)
+**Mentor(s)**: [Prasad Talasila](https://github.com/prasadtalasila) (prasad DOT talasila AT gmail DOT com)
 
 **Main Goals**:
 Your proposal goals should strongly align with the [Project Goals](https://github.com/AutolabJS/AutolabJS/wiki/Project-Goals) of AutolabJS.
@@ -34,4 +34,4 @@ We expect all the chosen deliverables to be completed as per the given timeline.
 1. Get in touch with the mentor **_very early_** to identify your project scope, goals and its fit with in the AutolabJS project.
 
 
-**Administrator**: [Prasad Talasila](http://prasad.talasila.in) (tsrkp AT goa DOT bits-pilani DOT ac DOT in)
+**Administrator**: [Prasad Talasila](http://prasad.talasila.in) (prasad DOT talasila AT gmail DOT com)
