@@ -6,7 +6,7 @@ tags: gsoc
 ---
 
 
-The GSoC applicants are requested to format their application using the outline given below. You can create a wiki page on your GitHub repository and fill the page with the required details. This page is available for [download](https://github.com/AutolabJS/autolabjs.github.io/blob/master/pages/projects/proposal-template.md) in markdown format.
+The GSoC applicants are requested to format their application using the outline given below. You can create a wiki page on your GitHub repository and fill the page with the required details. This page is available for [download](https://github.com/AutolabJS/autolabjs.github.io/blob/master/pages/gsoc-2019/projects/proposal-template.md) in markdown format.
 
 It is important to fill the application in detail and get your mentors feedback as early as possible. Please submit your applications directly to GSoC 2019 website.
 
